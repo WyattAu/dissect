@@ -36,3 +36,7 @@ Seeded, upstream-toolchain buildable. See [docs/ROADMAP.md](docs/ROADMAP.md).
 MIT, preserved in [LICENSE](LICENSE). Upstream copyright morluto and
 contributors; this fork's changes are (c) 2026 WyattAu, same license.
 Use only on software you are authorized to analyze.
+
+## Verifying a release
+
+Before running any installer: verify the tag signature and checksums per [docs/RELEASE.md](docs/RELEASE.md). Unsigned releases are not dissect releases.
